@@ -7,4 +7,4 @@ Notes for 10.10.2023 - Tuesday
 - change github repo name 
 - share related works -- tugba 
 - share paper -- tugba
-- new tool or extend Onurcan'project 
+- decide new tool or extend Onurcan'project 
