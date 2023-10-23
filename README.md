@@ -9,5 +9,5 @@ Notes for 10.10.2023 - Tuesday
 - share paper -- tugba
 - decide new tool or extend Onurcan'project 
 
-Notes for 23.10.2023 - Monday
-First draft is done but needs to be revised (The project's timeline will be distributed over weeks.)
+Notes for 23.10.2023
+- MondayFirst draft is done but needs to be revised (The project's timeline will be distributed over weeks.)
