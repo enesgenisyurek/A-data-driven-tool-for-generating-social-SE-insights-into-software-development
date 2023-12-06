@@ -1,0 +1,5 @@
+com\githubIssueTrack\githubIssueTrack\githubComment\GithubComment.class
+com\githubIssueTrack\githubIssueTrack\githubUser\GithubUser.class
+com\githubIssueTrack\githubIssueTrack\githubComment\GithubCommentRepository.class
+com\githubIssueTrack\githubIssueTrack\githubIssue\GithubIssueController.class
+com\githubIssueTrack\githubIssueTrack\githubReaction\GithubReaction.class
