@@ -1,4 +1,4 @@
-# Sentiment-analysis-for-software
+# Sentiment-analysis-for-software  
 
 Notes for 10.10.2023 - Tuesday
 
@@ -11,3 +11,4 @@ Notes for 10.10.2023 - Tuesday
 
 Notes for 23.10.2023 - Monday
 -  First draft is done but needs to be revised (The project's timeline will be distributed over weeks.)
+
